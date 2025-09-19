@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name is Alexander and I hold a master's degree in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> at the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a>.
+My name is Alexander and I hold a master's degree in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> from the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a>.
 The program covers the areas of computational linguistics, machine learning, knowledge representation and reasoning.<br>
 I did my master's thesis in machine learning, evaluating elastic transformations for data augmentation in neuroimaging.
 
 MSc in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> at the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a><br>
 BSc in <a href="https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/computer-science/">Computer Science</a> from <a href="https://www.uni-hannover.de/">Leibniz University Hannover</a>
+
+<!--
 
 Here is a sample of projects I have been working on during my master's studies:
 
@@ -14,7 +16,6 @@ Here is a sample of projects I have been working on during my master's studies:
 - [Image Caption Generator with Neural Networks](https://github.com/rafiberlin/sose2020_image_caption_deep_learning)
 - [Language model to generate fake lyrics using RNNs](https://github.com/alexander-koch/anlp-project)
 
-<!--
 
 **alexander-koch/alexander-koch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
